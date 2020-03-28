@@ -1,13 +1,7 @@
 import java.util.Scanner;
-/**
- * @author parsh
- *
- */
+
 public class Stars {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		@SuppressWarnings("resource")
