@@ -1,14 +1,7 @@
 import java.util.Scanner;
 
-/**
- * @author parsh
- *
- */
 public class PrimeCheck {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		
 		@SuppressWarnings("resource")
