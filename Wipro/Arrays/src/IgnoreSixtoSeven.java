@@ -11,15 +11,10 @@ O/P: 22
  * 
  */
 
-/**
- * @author parsh
- *
- */
+
 public class IgnoreSixtoSeven {
 
-	/**
-	 * @param args
-	 */
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] n = {1,6,3,7,6,27,7,1};
