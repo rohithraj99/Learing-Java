@@ -8,14 +8,12 @@ If the number is not found, it will print -1 else it will print the index value 
 Example 1) If the Array elements are  {1,4,34,56,7} and the search element is 90, then the output expected is -1.
 
 Example 2)If the Array elements are  {1,4,34,56,7} and the search element is 56, then the output expected is 3.
- * @author parsh
+ * 
  *
  */
 public class SearchArray {
 
-	/**
-	 * @param args
-	 */
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int inputArray[] = new int[]{10, 11, 88, 2, 12, 120};
