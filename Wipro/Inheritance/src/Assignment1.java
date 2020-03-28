@@ -1,11 +1,4 @@
-/**
- * 
- */
 
-/**
- * @author parsh
- *
- */
 class Animal {
 	
 	public void eat () {
