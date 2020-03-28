@@ -1,11 +1,4 @@
-/**
- * 
- */
 
-/**
- * @author parsh
- *
- */
 public class ParamConstructer {
 
 	
@@ -19,9 +12,7 @@ public class ParamConstructer {
 	int volumeofCube() {
 		return height*width*length;
 	}
-	/**
-	 * @param args
-	 */
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
      
