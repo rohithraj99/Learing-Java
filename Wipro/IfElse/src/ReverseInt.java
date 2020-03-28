@@ -1,15 +1,7 @@
 import java.util.Scanner;
- 
 
-/**
- * @author parsh
- *
- */
 public class ReverseInt {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
