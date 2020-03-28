@@ -2,15 +2,9 @@
  *  Write a program to initialize an integer array and find the maximum and minimum value of the array.
  */
 
-/**
- * @author parsh
- *
- */
+
 public class MaxMinValue {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
