@@ -10,9 +10,6 @@ R->Red, B->Blue, G->Green, O->Orange, Y->Yellow, W->White.
 If color code provided by the user is not valid then print "Invalid Code". 
  */
 
-/**
- * @author parsh
- */
 
 
 public class ColorCode {
