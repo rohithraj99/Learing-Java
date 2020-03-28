@@ -1,22 +1,11 @@
-/**
- * 
- */
 
-/**
- * @author parsh
- *
- */
 public class Person {
 
-	/**
-	 * 
-	 */
+	
 	 
 	String name,dateOfBirth;
 
-	/**
-	 * @param args
-	 */
+	
 	public static void main(String[] args) {
 		
 		Teacher t=new Teacher(234);
