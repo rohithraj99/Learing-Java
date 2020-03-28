@@ -1,11 +1,4 @@
-/**
- * 
- */
 
-/**
- * @author parsh
- *
- */
 public class PowerCalculator {
 	
 	double powerDouble(double num1,int num2) {
@@ -16,9 +9,6 @@ public class PowerCalculator {
 		return Math.pow(num1, num2);
 		
 	}
-	/**
-	 * @param args
-	 */
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
