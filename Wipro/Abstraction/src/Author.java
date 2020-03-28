@@ -1,13 +1,4 @@
 
-
-/**
- * 
- */
-
-/**
- * @author parsh
- *
- */
 public class Author {
 
     //private variable
