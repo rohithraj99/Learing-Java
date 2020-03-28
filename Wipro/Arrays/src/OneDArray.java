@@ -1,14 +1,12 @@
 import java.util.Scanner;
 /**
  *  Write a program to initialize an integer array and print the sum and average of the array.
- * @author parsh
+ * 
  *
  */
 public class OneDArray {
 
-	/**
-	 * @param args
-	 */
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
