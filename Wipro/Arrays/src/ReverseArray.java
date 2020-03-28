@@ -1,17 +1,9 @@
 import java.io.IOException;
 
-/**
- * 
- */
 
-/**
- * @author parsh
- *
- */
 public class ReverseArray {
 
 	/**
-	 * @param args
 	 * @throws IOException 
 	 * @throws NumberFormatException 
 	 */
