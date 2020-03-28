@@ -6,15 +6,9 @@ O/P:{12,34,45,67,89}
  * 
  */
 
-/**
- * @author parsh
- *
- */
+
 public class RmvDupArray {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
