@@ -1,18 +1,8 @@
 import java.util.Scanner;
 
-/**
- * 
- */
-
-/**
- * @author parsh
- *
- */
+/
 public class PalindromeInt {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 
 		@SuppressWarnings("resource")
