@@ -1,18 +1,7 @@
 import java.util.Scanner;
 
-/**
- * 
- */
-
-/**
- * @author Parsh
- *
- */
 public class TechModule1 {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String[][] arr = { { "EmpNo","EmpName", "Join Date", "Designation Code", "Department","Basic", "HRA", "IT" },
