@@ -20,14 +20,11 @@ Example3)
 C:\>java Sample 15
 
 O/P Expected : Invalid month
- * @author parsh
- *
+ 
  */
 public class Month {
 
-	/**
-	 * @param args
-	 */
+	
 	public static void main(String[] args) {
 		@SuppressWarnings("resource")
 		Scanner reader = new Scanner(System.in);
